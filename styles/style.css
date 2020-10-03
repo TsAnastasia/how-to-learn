@@ -313,6 +313,7 @@
 
 .footer__columns{
   margin: 60px auto 40px;
+  padding: 0;
   width: 90%;
   display: flex;
   justify-content: space-between;
@@ -341,10 +342,10 @@
   font-weight: normal;
 }
 
-/*.footer__column_content_info{
+.footer__column_content_info{
   margin: 0;
   padding: 0;
-}*/
+}
 
 .footer__column_heading{
   margin: 0;
